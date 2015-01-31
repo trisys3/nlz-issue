@@ -1,0 +1,4 @@
+{
+  "entrypoints": ["client/index.js", "client/index.css"],
+  "out": "."
+}
