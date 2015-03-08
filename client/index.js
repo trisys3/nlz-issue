@@ -1,1 +1,1 @@
-import 'barberboy/dom-elements@0'
+import './index.html'
